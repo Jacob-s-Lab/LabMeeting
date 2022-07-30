@@ -1,7 +1,7 @@
 # Lab Meeting Schedule from Aug 2022 to Jan 2023
 
 
-| <p>Progress report<br> (20mins+10min QA)</p> (Tue)1230-1330| Presentor| <p>Journal Club<br> (30mins+30mins QA)</p>(Thu)1400-1500| Presentor| Topic|
+| <p>Progress report<br> (20mins+10minQA)</p> (Tue)1230-1330| Presentor| <p>Journal Club<br> (30mins+30minsQA)</p>(Thu)1400-1500| Presentor| Topic|
 |-------------------------------------------------|----------|----------------------------------------------| ---------|------|
 |0802|YX rehearsal|0804 (17:00)|(YX口試)|暫停一次|
 |0809|Dr.Cheng|0811 (16:00)|PX|[gnomAD SV](https://www.nature.com/articles/s41586-020-2287-8)|
@@ -18,7 +18,7 @@
 |1025|ASHG meeting|1027|ASHG meeting||
 |1101|ASHG sharing|1103|ASHG sharing||
 |1108|郁書|1110|HW||
-|1115|Pinfei & Daphne|1117|YX||
+|1115|Pinfei & Daphne|1117|YX|[HLA*LA](https://academic.oup.com/bioinformatics/article/35/21/4394/5426702)|
 |1122|Dr.Cheng|1124|PM||
 |1129|Calvin & HW|1201|Daphne||
 |1206|PX & 庭暄|1208|Buffer||
