@@ -4,8 +4,8 @@
 | <p>Progress report<br> (20mins+10minQA)</p> (Tue)1230-1330| Presentor| <p>Journal Club<br> (30mins+30minsQA)</p>(Thu)1400-1500| Presentor| Topic|
 |-------------------------------------------------|----------|----------------------------------------------| ---------|------|
 |0802|YX rehearsal|0804 (17:00)|(YX口試)|暫停一次|
-|0809|Dr.Cheng|0811 (16:00)|PX|[gnomAD SV](https://www.nature.com/articles/s41586-020-2287-8)|
-|0816|Calvin & HW|0818  (16:00)|YT|Deafness association|
+|0809||0811 (16:00)|PX|[gnomAD SV](https://www.nature.com/articles/s41586-020-2287-8)|
+|0816|Calvin & Dr.Cheng|0818  (16:00)|YT|Deafness association|
 |0823|PX & 庭暄|0825  (16:00)|HW|[Japan KIR](https://www.sciencedirect.com/science/article/pii/S2666979X22000180)|
 |0830|YX & PM|0901|Dr.Cheng|Somatic benchmark|
 |0906|YT & 俐伶|0908|Pinfei|[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)|
