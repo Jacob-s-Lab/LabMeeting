@@ -5,7 +5,7 @@
 |-------------------------------------------------|----------|----------------------------------------------| ---------|------|
 |0802|YX rehearsal|0804 (17:00)|(YX口試)|暫停一次|
 |0809|HW|0811 (16:00)|PX|[gnomAD SV](https://www.nature.com/articles/s41586-020-2287-8)|
-|0816|Calvin & Dr.Cheng|0818  (16:00)|YT|Deafness association|
+|0816|Calvin & Dr.Cheng|0818  (16:00)|YT|[100,000 Genomes Pilot on Rare-Disease Diagnosis in Health Care — Preliminary Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790)|
 |0823|PX & 庭暄|0825  (16:00)|HW|[Japan KIR](https://www.sciencedirect.com/science/article/pii/S2666979X22000180)|
 |0830|YX & PM|0901|Dr.Cheng|Somatic benchmark|
 |0906|YT & 俐伶|0908|Pinfei|[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)|
