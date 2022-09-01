@@ -8,13 +8,13 @@
 |0816|Calvin & Dr.Cheng|0818  (16:00)|YT|[100,000 Genomes Pilot on Rare-Disease Diagnosis in Health Care — Preliminary Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790)|
 |0823|PX & 庭暄|0825  (16:00)|HW|[Japan KIR](https://www.sciencedirect.com/science/article/pii/S2666979X22000180)|
 |0830|YX & PM|0901|Dr.Cheng|Somatic benchmark|
-|0906|郁書 & 俐伶|0908|Pinfei|[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)|
+|0906|郁書 & 俐伶|0908|第一共研課程|研究發展新知演講_PacBio微生物基因體組裝與菌相分析Workshop|
 |0913|YT|0915|庭暄|[gnomAD MT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896463/)|
 |0920|Pinfei & Daphne|0922|PM|[UKB WGS](https://www.nature.com/articles/d41586-022-01984-6)|
 |0927|Dr.Cheng|0929|俐伶|[TWB WGS](https://www.medrxiv.org/content/10.1101/2021.12.23.21268291v1)|
 |1004|Calvin & HW|1006|Daphne|[Molecular diagnosis](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790)|
 |1011|PX & 庭暄|1013|Dr.Cheng||
-|1018|YX & PM|1020|Pinfei||
+|1018|YX & PM|1020|Pinfei|[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)|
 |1025|ASHG meeting|1027|ASHG meeting||
 |1101|ASHG sharing|1103|ASHG sharing||
 |1108|郁書|1110|HW||
