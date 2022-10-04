@@ -12,7 +12,7 @@
 |0913|YT|0915|庭暄|[gnomAD MT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896463/)|
 |0920|Pinfei & Daphne|0922|俐伶|[TWB WGS](https://www.medrxiv.org/content/10.1101/2021.12.23.21268291v1)|
 |0927|Dr.Cheng|0929|PM|[UKB WGS](https://www.nature.com/articles/d41586-022-01984-6)|
-|1004|Calvin & HW|1006|Daphne|[Molecular diagnosis](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790)|
+|1004|Calvin & HW|1006|Daphne|[Major sex differences in allele frequencies for X chromosomal variants in both the 1000 Genomes Project and gnomAD](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010231)|
 |1011|PX & 庭暄|1013|Dr.Cheng||
 |1018|YX & PM|1020|Pinfei|[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)|
 |1025|ASHG meeting|1027|ASHG meeting||
