@@ -17,11 +17,11 @@
 |1018|YX & PM|1020|Pinfei|[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)|
 |1025|ASHG meeting|1027|ASHG meeting||
 |1101||1103|郁書||
-|1108|ASHG sharing|1110|HW||
+|1108|ASHG sharing|1110|ASHG sharing||
 |1115|Pinfei & Daphne|1117|YX|[HLA*LA](https://academic.oup.com/bioinformatics/article/35/21/4394/5426702)|
 |1122|Dr.Cheng|1124|PM||
 |1129|Calvin & HW|1201|Daphne||
-|1206|PX & 庭暄|1208|Buffer||
+|1206|PX & 庭暄|1208|HW||
 |1213|YX & PM|1215|Dr.Cheng||
 |1220|YT & 俐伶|1222|庭暄||
 |1227|郁書|1229|PX||
