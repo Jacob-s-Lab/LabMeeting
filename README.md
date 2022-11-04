@@ -17,7 +17,7 @@
 |1018|YX & PM|1020|Pinfei|[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)|
 |1025|ASHG meeting|1027|ASHG meeting||
 |1101|犀牛盾資料科學家|1103|郁書||
-|1108|ASHG sharing|1110|ASHG sharing||
+|1108|ASHG sharing (YT)|1110|ASHG sharing (PX)||
 |1115|Pinfei & Daphne|1117|YX|[HLA*LA](https://academic.oup.com/bioinformatics/article/35/21/4394/5426702)|
 |1122|Dr.Cheng|1124|PM||
 |1129|Calvin & HW|1201|Daphne||
