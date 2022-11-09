@@ -27,3 +27,7 @@
 |1227|郁書|1229|PX||
 |0103|Pinfei & Daphne|0105|YT||
 |0110|Guest|0112|HW||
+
+Updated paper:  <br> 
+[Analysis of clinically relevant variants from ancestrally diverse Asian genomes](https://doi.org/10.1038/s41467-022-34116-9) <br> 
+[Scaling national and international improvement in virtual gene panel curation via a collaborative approach to discordance resolution](https://doi.org/10.1016/j.ajhg.2021.06.020)
