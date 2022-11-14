@@ -21,10 +21,10 @@
 |1115|Pinfei & Daphne|1117|YX|[HLA*LA](https://academic.oup.com/bioinformatics/article/35/21/4394/5426702)|
 |1122|Dr.Cheng|1124|PM||
 |1129|Calvin & HW|1201|Daphne|[Taiwan Biobank: A rich biomedical research database of the Taiwanese population](https://doi.org/10.1016/j.xgen.2022.100197)|
-|1206|PX & 庭暄|1208|HW||
+|1206|PX & 庭暄|1208|HW|https://www.biorxiv.org/content/10.1101/2022.10.26.513955v1|
 |1213|YX & PM|1215|Dr.Cheng||
-|1220|YT & 俐伶|1222|庭暄||
-|1227|郁書|1229|PX||
+|1220|YT & 俐伶|1222|PX||
+|1227|郁書|1229|庭暄||
 |0103|Pinfei & Daphne|0105|YT||
 |0110|Guest|0112|HW||
 
