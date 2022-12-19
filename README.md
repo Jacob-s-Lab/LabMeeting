@@ -24,7 +24,7 @@
 |1206|PX & 庭暄|1208|HW|[T1K: efficient and accurate KIR and HLA genotyping with next-generation sequencing data](https://www.biorxiv.org/content/10.1101/2022.10.26.513955v1)|
 |1213|YX & PM|1215|Dr.Cheng||
 |1220|YT & 俐伶|1222|PX||
-|1227|郁書|1229|庭暄||
+|1227|郁書|1229|庭暄|[Analysis of clinically relevant variants from ancestrally diverse Asian genomes](https://www.nature.com/articles/s41467-022-34116-9)|
 |0103|Pinfei & Daphne|0105|YT||
 |0110|Guest|0112|HW||
 
