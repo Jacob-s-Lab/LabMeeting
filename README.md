@@ -25,7 +25,7 @@
 |1213|YX & PM|1215|Dr.Cheng||
 |1220|YT & 俐伶|1222|PX||
 |1227|郁書|1229|庭暄|[Analysis of clinically relevant variants from ancestrally diverse Asian genomes](https://www.nature.com/articles/s41467-022-34116-9)|
-|0103|Dr.Cheng & Daphne|0105|YT||
+|0103|Dr.Cheng & YX|0105|YT||
 |0110|Pinfei & Guest|0112|HW||
 
 Updated paper:  <br> 
