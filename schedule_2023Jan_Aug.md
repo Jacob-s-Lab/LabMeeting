@@ -31,3 +31,8 @@
 | 8/31                                                    | YT        |       | 9/1                                                      | HW        | Pinfei | 俐伶   |
 
 Updated paper:  <br> 
+- [Truvari: refined structural variant comparison preserves allelic diversity](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02840-6) <br> 
+- [Scaling national and international improvement in virtual gene panel curation via a collaborative approach to discordance resolution](https://doi.org/10.1016/j.ajhg.2021.06.020) <br> 
+- [A cross-disorder dosage sensitivity map of the human genome](https://doi.org/10.1016/j.cell.2022.06.036) <br> 
+- [Profiling variable-number tandem repeat variation across populations using repeat-pangenome graphs](https://doi.org/10.1038/s41467-021-24378-0) <br>
+- [Points to consider in the detection of germline structural variants using next-generation sequencing: A statement of the American College of Medical Genetics and Genomics (ACMG)](https://doi.org/10.1016/j.gim.2022.09.017) <br>
