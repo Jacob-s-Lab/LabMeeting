@@ -37,3 +37,4 @@ Updated paper:  <br>
 - [A cross-disorder dosage sensitivity map of the human genome](https://doi.org/10.1016/j.cell.2022.06.036) <br> 
 - [Profiling variable-number tandem repeat variation across populations using repeat-pangenome graphs](https://doi.org/10.1038/s41467-021-24378-0) <br>
 - [Points to consider in the detection of germline structural variants using next-generation sequencing: A statement of the American College of Medical Genetics and Genomics (ACMG)](https://doi.org/10.1016/j.gim.2022.09.017) <br>
+- [A joint NCBI and EMBL-EBI transcript set for clinical genomics and research](https://doi.org/10.1038/s41586-022-04558-8) <br>
