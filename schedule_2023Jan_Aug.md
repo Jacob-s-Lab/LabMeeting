@@ -40,3 +40,5 @@ Updated paper:  <br>
 - [Points to consider in the detection of germline structural variants using next-generation sequencing: A statement of the American College of Medical Genetics and Genomics (ACMG)](https://doi.org/10.1016/j.gim.2022.09.017) <br>
 - [A joint NCBI and EMBL-EBI transcript set for clinical genomics and research](https://doi.org/10.1038/s41586-022-04558-8) <br>
 - [Genomic analyses of 10,376 individuals in the Westlake BioBank for Chinese (WBBC) pilot project](https://www.nature.com/articles/s41467-022-30526-x) <br>
+- [Personalized genome assembly for accurate cancer somatic mutation discovery using tumor-normal paired reference samples (Genome Biology 2022)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02803-x)<br>
+- [Structural variant analysis of a cancer reference cell line sample using multiple sequencing technologies (Genome Biology 2022)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02816-6)<br>
