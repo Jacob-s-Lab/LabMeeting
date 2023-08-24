@@ -27,7 +27,7 @@
 | 8/3                                                     | ~~庭暄~~  (skipped)      |   暫停一次(中研院基因體流行病學研習營)   | 8/4       | ~~庭暄~~ （skipped）        | ~~YT~~ （skipped）     |        |
 | 8/10                                                    |  暫停一次   |  暫停一次(Summer break) | 8/11                                 | ~~俐伶~~  （skipped）       | ~~俐伶~~ （skipped）     | ~~Calvin~~（skipped）  |
 | 8/17                                                    | 俐伶          | | 8/18                                                     | HW        | 庭暄  | 郁書     |
-| 8/24                                                    | Pinfei    |                                                                                                                                                                                                                                  | 8/25                                                     | PX        | PM     |  Pinfei  |
+| 8/24                                                    | ~~Pinfei~~ 基蛋所普渡    |                                                                                                                                                                        | 8/25                                                     | PX        | PM     |  ~~Pinfei~~   |
 | 8/31                                                    |      HW  |                                                                                                                                                                                                                    | 9/1                                                      | YT        | 自航     | 自航     |
 
 
