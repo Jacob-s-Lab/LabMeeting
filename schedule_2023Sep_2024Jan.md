@@ -1,6 +1,28 @@
 # Lab Meeting Schedule from Sep 2023 to Jan 2024
 
-
+| Journal  Club     (30mins+30minsQA)     (Thu)1400-1500 | Presentor    | Topic                                                        | Progress report     (20mins+10minQA)     (Fri)1500-1600 | Presentor    |           |
+| ------------------------------------------------------ | ------------ | :----------------------------------------------------------- | ------------------------------------------------------- | ------------ | --------- |
+| 9/7                                                    | 庭暄         | [Association of mitochondrial DNA content, heteroplasmies and  inter-generational transmission with  autism](https://www.nature.com/articles/s41467-022-30805-7#Sec20) | 9/8                                                     | HW           | Calvin    |
+| 9/14                                                   | YT           |                                                              | 9/15                                                    | 庭暄         | ANY       |
+| 9/21                                                   | PM           |                                                              | 9/22                                                    | Jacob off    | Jacob off |
+| 9/28                                                   | 俐伶/ANY     |                                                              | 9/29                                                    | 中秋         | 中秋      |
+| 10/5                                                   | 婕瑜         |                                                              | 10/6                                                    | PM           | 自航      |
+| 10/12                                                  | HW           |                                                              | 10/13                                                   | YT           | 冠達      |
+| 10/19                                                  | 自航         |                                                              | 10/20                                                   | 郁書         | 婕瑜      |
+| 10/26                                                  | 冠達         |                                                              | 10/27                                                   | 庭暄         | ANY       |
+| 11/2                                                   | ASHG         |                                                              | 11/3                                                    | ASHG         | ASHG      |
+| 11/9                                                   | ASHG sharing |                                                              | 11/10                                                   | ASHG sharing |           |
+| 11/16                                                  | 庭暄         |                                                              | 11/17                                                   | HW           | Calvin    |
+| 11/23                                                  | YT           |                                                              | 11/24                                                   | PM           | 自航      |
+| 11/30                                                  | 俐伶/ANY     |                                                              | 12/1                                                    | YT           | 冠達      |
+| 12/7                                                   | PM           |                                                              | 12/8                                                    | 郁書         | 婕瑜      |
+| 12/14                                                  | 自航         |                                                              | 12/15                                                   | HW           | Calvin    |
+| 12/21                                                  | 冠達         |                                                              | 12/22                                                   | 庭暄         | ANY       |
+| 12/28                                                  | 婕瑜         |                                                              | 12/29                                                   | PM           | 自航      |
+| 1/4                                                    | HW           |                                                              | 1/5                                                     | YT           | 冠達      |
+| 1/11                                                   | 庭暄         |                                                              | 1/12                                                    | 郁書         | 婕瑜      |
+| 1/18                                                   | PM           |                                                              | 1/19                                                    | HW           | Calvin    |
+| 1/25                                                   | YT           |                                                              | 1/26                                                    | 庭暄         | ANY       |
 
 
 
