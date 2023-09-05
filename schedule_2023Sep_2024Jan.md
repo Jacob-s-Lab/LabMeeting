@@ -5,29 +5,29 @@
 
 
 
-| Journal  Club     (30mins+30minsQA)     (Thu)1400-1500 | Presentor    | Topic                                                        | Progress report     (20mins+10minQA)     (Thu)1500-1600 | Presentor |
-| ------------------------------------------------------ | ------------ | :----------------------------------------------------------- | ------------------------------------------------------- | --------- |
-| 9/7                                                    | 庭暄         | [Association of mitochondrial DNA content, heteroplasmies and  inter-generational transmission with  autism](https://www.nature.com/articles/s41467-022-30805-7#Sec20) | HW                                                      | Calvin    |
-| 9/14                                                   | HW           |                                                              | 庭暄                                                    | ANY       |
-| 9/21                                                   | PM           |                                                              | Jacob off                                               | Jacob off |
-| 9/28                                                   | 俐伶/ANY     |                                                              |                                                        |         |
-| 10/5                                                   | 婕瑜         |                                                              | PM                                                      |           |
-| 10/12                                                  | YT           |                                                              | YT                                                      | 冠達      |
-| 10/19                                                  |              |                                                              | 郁書                                                    | 婕瑜      |
-| 10/26                                                  | 冠達         |                                                              | 庭暄                                                    | ANY       |
-| 11/2                                                   | ASHG         |                                                              | ASHG                                                    | ASHG      |
-| 11/9                                                   | ASHG sharing |                                                              | ASHG sharing                                            |           |
-| 11/16                                                  | 庭暄         |                                                              | HW                                                      | Calvin    |
-| 11/23                                                  | YT           |                                                              | PM                                                      |           |
-| 11/30                                                  | 俐伶/ANY     |                                                              | YT                                                      | 冠達      |
-| 12/7                                                   | PM           |                                                              | 郁書                                                    | 婕瑜      |
-| 12/14                                                  |              |                                                              | HW                                                      | Calvin    |
-| 12/21                                                  | 冠達         |                                                              | 庭暄                                                    | ANY       |
-| 12/28                                                  | 婕瑜         |                                                              | PM                                                      |           |
-| 1/4                                                    | HW           |                                                              | YT                                                      | 冠達      |
-| 1/11                                                   | 庭暄         |                                                              | 郁書                                                    | 婕瑜      |
-| 1/18                                                   | PM           |                                                              | HW                                                      | Calvin    |
-| 1/25                                                   | YT           |                                                              | 庭暄                                                    | ANY       |
+| Journal  Club     (30mins+30minsQA) | Presentor    | Topic                                                        | Progress report     (20mins+10minQA) | Presentor |
+| ----------------------------------- | ------------ | :----------------------------------------------------------- | ------------------------------------ | --------- |
+| 9/7                                 | 庭暄         | [Association of mitochondrial DNA content, heteroplasmies and  inter-generational transmission with  autism](https://www.nature.com/articles/s41467-022-30805-7#Sec20) | HW                                   | Calvin    |
+| 9/14                                | HW           |                                                              | 庭暄                                 | ANY       |
+| 9/21                                | PM           |                                                              | Jacob off                            | Jacob off |
+| 9/28                                | 俐伶/ANY     |                                                              | 中秋                                 | 中秋      |
+| 10/5                                | 婕瑜         |                                                              | PM                                   |           |
+| 10/12                               | YT           |                                                              | YT                                   | 冠達      |
+| 10/19                               |              |                                                              | 郁書                                 | 婕瑜      |
+| 10/26                               | 冠達         |                                                              | 庭暄                                 | ANY       |
+| 11/2                                | ASHG         |                                                              | ASHG                                 | ASHG      |
+| 11/9                                | ASHG sharing |                                                              | ASHG sharing                         |           |
+| 11/16                               | 俐伶/ANY     |                                                              | HW                                   | Calvin    |
+| 11/23                               | YT           |                                                              | PM                                   |           |
+| 11/30                               | 庭暄         |                                                              | YT                                   | 冠達      |
+| 12/7                                | PM           |                                                              | 郁書                                 | 婕瑜      |
+| 12/14                               |              |                                                              | HW                                   | Calvin    |
+| 12/21                               | 冠達         |                                                              | 庭暄                                 | ANY       |
+| 12/28                               | 婕瑜         |                                                              | PM                                   |           |
+| 1/4                                 | HW           |                                                              | YT                                   | 冠達      |
+| 1/11                                | 庭暄         |                                                              | 郁書                                 | 婕瑜      |
+| 1/18                                | PM           |                                                              | HW                                   | Calvin    |
+| 1/25                                | YT           |                                                              | 庭暄                                 | ANY       |
 
 Updated paper:  <be> 
 - [Variant calling and benchmarking in an era of complete human genome sequences (Nature Reviews Genetics 2023)](https://doi.org/10.1038/s41576-023-00590-0)<br>
