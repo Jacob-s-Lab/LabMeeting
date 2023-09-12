@@ -8,16 +8,16 @@
 | Journal  Club     (30mins+30minsQA) | Presentor    | Topic                                                        | Progress report     (20mins+10minQA) | Presentor |
 | ----------------------------------- | ------------ | :----------------------------------------------------------- | ------------------------------------ | --------- |
 | 9/7                                 | 庭暄         | [Association of mitochondrial DNA content, heteroplasmies and  inter-generational transmission with  autism](https://www.nature.com/articles/s41467-022-30805-7#Sec20) | HW                                   | Calvin    |
-| 9/14                                | HW           |                                                              | 庭暄                                 | ANY       |
+| 9/14                                | HW           | 預口試                                                       | 庭暄                                 | ANY       |
 | 9/21                                | PM           |                                                              |                                     |           |
-| 9/28                                |             |                                                              |                                      |           |
+| 9/28                                | 中秋節放假    |                                                              |                                      |           |
 | 10/5                                | 婕瑜         |                                                              | PM                                   |           |
 | 10/12                               | YT           |                                                              | YT                                   | 冠達      |
 | 10/19                               |              |                                                              | 郁書                                 | 婕瑜      |
 | 10/26                               | 冠達         |                                                              | 庭暄                                 | 俐伶       |
 | 11/2                                | ASHG         |                                                              | ASHG                                 | ASHG      |
-| 11/9                                | ASHG sharing |                                                              | ASHG sharing                         |           |
-| 11/16                               | 俐伶/ANY     |                                                              | HW                                   | Calvin    |
+| 11/9                                | 俐伶/ANY     |                                                              | HW                                   | Calvin   |
+| 11/16                               | ASHG sharing  |                                                              | ASHG sharing                                   |            |
 | 11/23                               | YT           |                                                              | PM                                   |           |
 | 11/30                               | 庭暄         |                                                              | YT                                   | 冠達      |
 | 12/7                                | PM           |                                                              | 郁書                                 | 婕瑜      |
