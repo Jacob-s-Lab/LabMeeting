@@ -9,7 +9,7 @@
 | ----------------------------------- | ------------ | :----------------------------------------------------------- | ------------------------------------ | --------- |
 | 9/7                                 | 庭暄         | [Association of mitochondrial DNA content, heteroplasmies and  inter-generational transmission with  autism](https://www.nature.com/articles/s41467-022-30805-7#Sec20) | HW                                   | Calvin    |
 | 9/14                                | HW           | 預口試                                                       | 庭暄                                 | ANY       |
-| 9/21                                | PM           |                                                              |                                     |           |
+| 9/21                                | PM           |[Towards an accurate and robust analysis pipeline for somatic mutation calling](https://pubmed.ncbi.nlm.nih.gov/36457740/) |                                     |           |
 | 9/28                                | 中秋節放假    |                                                              |                                      |           |
 | 10/5                                |              |                                                              | PM                                   |           |
 | 10/12                               | YT           |                                                              | YT                                   | 冠達      |
