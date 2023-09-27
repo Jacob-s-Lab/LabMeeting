@@ -11,7 +11,7 @@
 | 9/14                                | HW           | 預口試                                                       | 庭暄                                 | ANY       |
 | 9/21                                | PM           |[Towards an accurate and robust analysis pipeline for somatic mutation calling](https://pubmed.ncbi.nlm.nih.gov/36457740/) |                                     |           |
 | 9/28                                | 中秋節放假    |                                                              |                                      |           |
-| 10/5                                |              |                                                              | PM                                   |           |
+| 10/5                                | TIGP seminar  |           (Lab meeting 暫停)                                |                                      |           |
 | 10/12                               | YT           |                                                              | YT                                   | 冠達      |
 | 10/19                               | 婕瑜          |                                                              | 郁書                                 | 婕瑜      |
 | 10/26                               | 冠達         |                                                              | 庭暄                                 | 俐伶       |
