@@ -30,8 +30,10 @@
 | 1/25                                | YT           |                                                              | 庭暄                                 | 俐伶       |
 
 Updated paper:  <be> 
+- [Multiscale analysis of pangenomes enables improved representation of genomic diversity for repetitive and clinically relevant genes (Nature Methods 2023)](https://www.nature.com/articles/s41592-023-01914-y) <br>
 - [Variant calling and benchmarking in an era of complete human genome sequences (Nature Reviews Genetics 2023)](https://doi.org/10.1038/s41576-023-00590-0)<br>
 - [Points to consider in the detection of germline structural variants using next-generation sequencing: A statement of the American College of Medical Genetics and Genomics (ACMG) (Genetics in Medicine 2023)](https://doi.org/10.1016/j.gim.2022.09.017) <br>
+- [SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads (Nature Methods 2022)](https://www.nature.com/articles/s41592-022-01674-1) <br>
 - [Calibration of computational tools for missense variant pathogenicity classification and ClinGen recommendations for PP3/BP4 criteria (AJHG 2022)](https://doi.org/10.1016/j.ajhg.2022.10.013) <br> 
 - [Genomic analyses of 10,376 individuals in the Westlake BioBank for Chinese (WBBC) pilot project (Nature Common 2022)](https://www.nature.com/articles/s41467-022-30526-x) <br>
 - [A joint NCBI and EMBL-EBI transcript set for clinical genomics and research (Nature 2022)](https://doi.org/10.1038/s41586-022-04558-8) <br>
