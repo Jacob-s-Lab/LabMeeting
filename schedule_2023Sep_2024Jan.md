@@ -14,11 +14,11 @@
 | 10/5                                | TIGP seminar  |           (Lab meeting 暫停)                                |                                      |           |
 | 10/12                               | YT           | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | YT                                   | 冠達      |
 | 10/19                               | 婕瑜          |                                                              | 郁書                                 | 婕瑜      |
-| 10/26                               | 冠達         |                                                              | 庭暄                                 | 俐伶       |
+| 10/26                               | 冠達         |                                                              | 庭暄                                 |  |
 | 11/2                                | ASHG         |                                                              | ASHG                                 | ASHG      |
 | 11/9                                | 俐伶/ANY     |                                                              | HW                                   | Calvin   |
 | 11/16                               | ASHG sharing  |                                                              | ASHG sharing                                   |            |
-| 11/23                               | YT           | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | PM                                   |           |
+| 11/23                               | YT           | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | PM                                   |      俐伶     |
 | 11/30                               | 庭暄         |                                                              | YT                                   | 冠達      |
 | 12/7                                | PM           |                                                              | 郁書                                 | 婕瑜      |
 | 12/14                               | 俐伶         |                                                              | HW                                   | Calvin    |
