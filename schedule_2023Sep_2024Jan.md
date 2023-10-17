@@ -13,8 +13,8 @@
 | 9/28                                | 中秋節放假    |                                                              |                                      |           |
 | 10/5                                | TIGP seminar  |           (Lab meeting 暫停)                                |                                      |           |
 | 10/12                               | YT           | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | YT                                   | 冠達      |
-| 10/19                               | 婕瑜          |                                                              | 郁書                                 | 婕瑜      |
-| 10/26                               | 冠達         |                                                              | 庭暄                                 |  |
+| 10/19                               | 婕瑜          |  [Variant calling and benchmarking in an era of complete human genome sequences](https://www.nature.com/articles/s41576-023-00590-0) | 郁書                                 | 婕瑜      |
+| 10/26                               | 冠達         | [Profiling genes encoding the adaptive immune receptor repertoire with gAIRR Suite](https://www.frontiersin.org/articles/10.3389/fimmu.2022.922513) | 庭暄                                 | PM |
 | 11/2                                | ASHG         |                                                              | ASHG                                 | ASHG      |
 | 11/9                                | 俐伶/ANY     |                                                              | HW                                   | Calvin   |
 | 11/16                               | ASHG sharing  |                                                              | ASHG sharing                                   |            |
