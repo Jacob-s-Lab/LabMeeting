@@ -22,11 +22,11 @@
 | 11/30                               | 庭暄         | [Nuclear genetic control of mtDNA copy number and heteroplasmy in humans](https://www.nature.com/articles/s41586-023-06426-5#Fig1) | YT                                   | 冠達      |
 | 12/7                                | PM           |                                                              | 郁書                                 | 婕瑜      |
 | 12/14                               | 俐伶         |                                                              | HW                                   | Calvin    |
-| 12/21                               | 婕瑜         | [Variant calling and benchmarking in an era of complete human genome sequences](https://www.nature.com/articles/s41576-023-00590-0) | 庭暄                                 | ANY       |
-| 12/28                               | YT         | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | PM                                   |  HW       |
-| 1/4                                 | HW           |                                                              | YT                                   | 冠達      |
+| 12/21                               | 婕瑜         | [Variant calling and benchmarking in an era of complete human genome sequences](https://www.nature.com/articles/s41576-023-00590-0) | 庭暄                                 |  Larry  |
+| 12/28                               | YT         | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | PM                   |  HW       |
+| 1/4                                 | HW           |   Oral Defense Rehearsal                                     | YT                                   | 冠達      |
 | 1/11                                | 庭暄         | [Nuclear genetic control of mtDNA copy number and heteroplasmy in humans](https://www.nature.com/articles/s41586-023-06426-5#Fig1) | 郁書                                 | 婕瑜      |
-| 1/18                                | PM           |                                                              |  Calvin                                  |     |
+| 1/18                                | PM           |                                                              |  Calvin                                  | Larry  |
 | 1/25                                | YT           |                                                              | 庭暄                                 | 俐伶       |
 
 Updated paper:  <be> 
