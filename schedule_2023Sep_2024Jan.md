@@ -21,8 +21,8 @@
 | 11/23                               | 冠達           | [Profiling genes encoding the adaptive immune receptor repertoire with gAIRR Suite](https://www.frontiersin.org/articles/10.3389/fimmu.2022.922513) | PM                                   |      俐伶     |
 | 11/30                               | 庭暄         | [Nuclear genetic control of mtDNA copy number and heteroplasmy in humans](https://www.nature.com/articles/s41586-023-06426-5#Fig1) | YT                                   | 冠達      |
 | 12/7                                | PM           |                                                              | 郁書                                 | 婕瑜      |
-| 12/14                               | 俐伶         |                                                              | HW                                   | Calvin    |
-| 12/21                               | 婕瑜         | [Variant calling and benchmarking in an era of complete human genome sequences](https://www.nature.com/articles/s41576-023-00590-0) | 庭暄                                 |  Larry  |
+| 12/14                               | 俐伶         |                                                              | HW                                   | 庭暄    |
+| 12/21                               | 婕瑜         | [Variant calling and benchmarking in an era of complete human genome sequences](https://www.nature.com/articles/s41576-023-00590-0) | Calvin                                 |  Larry  |
 | 12/28                               | YT         | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | PM                   |  HW       |
 | 1/4                                 | HW           |   Oral Defense Rehearsal                                     | YT                                   | 冠達      |
 | 1/11                                | 庭暄         | [Nuclear genetic control of mtDNA copy number and heteroplasmy in humans](https://www.nature.com/articles/s41586-023-06426-5#Fig1) | 郁書                                 | 婕瑜      |
