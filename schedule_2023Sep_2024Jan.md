@@ -24,10 +24,10 @@
 | 12/14                               | 俐伶         |                                                              | HW                                   | 庭暄    |
 | 12/21                               | 婕瑜         | [Variant calling and benchmarking in an era of complete human genome sequences](https://www.nature.com/articles/s41576-023-00590-0) | Calvin                                 |  Larry  |
 | 12/28                               | YT         | [A draft human pangenome reference](https://pubmed.ncbi.nlm.nih.gov/37165242/) | PM                   |  HW       |
-| 1/4                                 | HW           |   Oral Defense Rehearsal                                     | YT                                   | 冠達      |
+| 1/4                                 | HW           |   Oral Defense Rehearsal                                     | 庭暄                                   | 冠達      |
 | 1/11                                | 庭暄         | [Nuclear genetic control of mtDNA copy number and heteroplasmy in humans](https://www.nature.com/articles/s41586-023-06426-5#Fig1) | 郁書                                 | 婕瑜      |
 | 1/18                                | PM           |                                                              |  Calvin                                  | Larry  |
-| 1/25                                | YT           |                                                              | 庭暄                                 | 俐伶       |
+| 1/25                                | YT           |                                                              | YT                                 | 俐伶       |
 
 Updated paper:  <be> 
 - [Mono- and biallelic variant effects on disease at biobank scale (Nature 2023)](https://www.nature.com/articles/s41586-022-05420-7) <br>
