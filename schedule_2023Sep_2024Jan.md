@@ -27,7 +27,7 @@
 | 1/4                                 | HW           |   Oral Defense Rehearsal                                     | 庭暄                                   | 冠達      |
 | 1/11                                | 庭暄         | [Nuclear genetic control of mtDNA copy number and heteroplasmy in humans](https://www.nature.com/articles/s41586-023-06426-5#Fig1) | 郁書                                 | 婕瑜      |
 | 1/18                                | PM           |                                                              |  Calvin                                  | Larry  |
-| 1/25                                | YT           |                                                              | YT                                 | 俐伶       |
+| 1/25                                | YT           | [Expectations and blind spots for structural variation detection from long-read assemblies and short-read genome sequencing technologies](https://www.sciencedirect.com/science/article/pii/S0002929721000987?via%3Dihub) | YT                                 | 俐伶       |
 
 Updated paper:  <be> 
 - [Mono- and biallelic variant effects on disease at biobank scale (Nature 2023)](https://www.nature.com/articles/s41586-022-05420-7) <br>
