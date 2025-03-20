@@ -1,6 +1,6 @@
 ## Lab Meeting Schedule from March 2025 to July 2025  
 - 會議時間：Lab meeting為每月第一及第三週的星期四 14:00-15:00，每月cross-lab meeting日期、時間及地點也將隨時更新  
-- 會議地點：Lab meeting-幸福講堂  
+- 會議地點：Lab meeting--1310 會議室  
 
 | DATE  | Presentor    | Topic | Note                                         |
 |:------|:------------|:------|:---------------------------------------------|
