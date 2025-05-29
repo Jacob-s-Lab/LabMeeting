@@ -13,7 +13,7 @@
 | 5/15  | Larry & 廷宇  |       | Jacob不出席                                 |
 | 6/5   | 冠達 rehearsal |                                                  |
 | 6/18  | 陳弘昕老師實驗室 |  | **Cross-lab meeting 14:00 地點：中研院 行程：開完會後參觀TWB -->就地解散** |
-| 6/19  | 婕瑜 rehearsal |                                                  |
+| 6/19  | 婕瑜 rehearsal & 品妃 rehearsal | **時間兩小時，地點待定**                                                 |
 | 7/3   | 鈺婷 rehearsal |                                                  |
 | 7/10  | Jacob's lab --  廷宇 |       | **Cross-lab meeting 15:30 (暫定，時間可能與中研院 workshop 重疊**     |
 | 7/17   | Jacob & 庭暄 |       |                                             |
