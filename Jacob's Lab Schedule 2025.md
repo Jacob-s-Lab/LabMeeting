@@ -19,8 +19,9 @@
 | 2025/7/11 | Fri ||| 實驗室聚餐 | 時間 18:00 <br>地點：吉比鮮釀餐廳台北南西店 |
 | 2025/7/17 | Thur ||| lab meeting 順延 ||
 | 2025/8/7  | Thur | Jacob | 庭暄 | lab meeting ||
-| 2025/8/14 | Thur | 馮嬿臻老師實驗室 ||| Cross-lab meeting | 據說可能是密室逃脫?! 時間：整個下午 <br>地點：再說 |
-| 2025/8/21 | Thur | 家淇 | Larry  | lab-meeting ||
+| 2025/8/14 | Thur | Larry || lab meeting | 時間：14:00-14:30 |
+| 2025/8/21 | Thur | 家淇 |  | lab-meeting | 時間：14:00-14:30 |
+| 2025/8/21 | Thur | 馮嬿臻老師實驗室 || Cross-lab meeting | 活動：閃動格子 時間：15:30-17:30 <br>地點：公館 |
 | 2025/9/4  | Thur  | 廷宇 | Jacob | lab meeting ||
 | 2025/9/18 | Thur | 家淇 | 品妃 | lab meeting ||
 | 2025/10/2 | Thur  | 庭暄 | 鈺婷 | lab meeting ||
