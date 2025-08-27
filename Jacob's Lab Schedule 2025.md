@@ -23,15 +23,18 @@
 | 2025/8/21 | Thur | 家淇 |  | lab-meeting | 時間：13:30-14:00 |
 | 2025/8/21 | Thur | 馮嬿臻老師實驗室 || Cross-lab meeting | 活動：閃動格子 時間：15:30-17:30 <br>地點：公館 |
 | 2025/9/4  | Thur  | 廷宇 | Jacob | lab meeting ||
+| 2025/9/15 | Mon | | | Cross-lab meeting ||
 | 2025/9/18 | Thur | 庭暄 | 鈺婷 | lab meeting ||
 | 2025/10/2 | Thur  | 穎蓁 | 冠達 | lab meeting ||
-| 2025/10/16 | Thur  ||| ASHG |**注意:ASHG醫圖報告和 lab meeting 不可重複內容**|
-|2025/10/30 | Thur | 婕瑜 | 品妃 | lab meeting & 博班進度報告 rehearsal ||
+| 2025/10/16 | Thur  ||| ASHG |**注意:ASHG醫圖報告和 lab meeting 內容不可重複**|
+| 2025/10/30 | Thur | Larry | 品妃 | lab meeting & 博班進度報告 rehearsal ||
 | 2025/11/6  | Thur | 冠達 | 鈺婷 | ASHG 報告 | ASHG workshop & topics shared |
-| 2025/11/13 | Thur | 廷宇 家淇 | 庭暄 | Cross-lab meeting： ASHG 報告 | ASHG workshop & topics shared |
+| 2025/11/10 | Mon | | | Cross-lab meeting | |
+| 2025/11/13 | Thur | 廷宇 家淇 | 庭暄 | ASHG 報告 | ASHG workshop & topics shared |
 | 2025/12/4  | Thur | 家淇 | 廷宇 | 碩班進度報告 rehearsal ||
+| 2025/12/15 | Mon | Jacob's Lab | | Cross-lab meeting ||
 | 2025/12/18 | Thur | 雲兒 | 詩韻 | lab meeting ||
 | 2026/1/1 | Thur ||| 元旦放假||
-| 2026/1/15 | Thur | Larry | 文綺 | lab meeting ||
+| 2026/1/15 | Thur | 婕瑜 | 文綺 | lab meeting ||
 | 2025/2/5 | Thur |||||
 | 2025/2/19| Thur ||| 過年 ||
