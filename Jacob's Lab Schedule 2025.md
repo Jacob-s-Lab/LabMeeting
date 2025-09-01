@@ -26,7 +26,7 @@
 | 2025/9/15 | Mon | | | Cross-lab meeting ||
 | 2025/9/18 | Thur | 庭暄 | 鈺婷 | lab meeting ||
 | 2025/10/2 | Thur  | 穎蓁 | 冠達 | lab meeting ||
-| 2025/10/16 | Thur  ||| ASHG |**注意:ASHG醫圖報告和 lab meeting 內容不可重複**|
+| 2025/10/16 | Thur  ||| ASHG |**注意:ASHG的分享，每個人都會醫圖講一次，我們實驗室講一次。請注意內容不要重複**|
 | 2025/10/30 | Thur | Larry | 品妃 | lab meeting & 博班進度報告 rehearsal ||
 | 2025/11/6  | Thur | 冠達 | 鈺婷 | ASHG 報告 | ASHG workshop & topics shared |
 | 2025/11/10 | Mon | | | Cross-lab meeting | |
