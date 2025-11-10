@@ -32,7 +32,7 @@
 | 2025/11/10 | Mon | 陳弘昕老師實驗室 | | Cross-lab meeting | 時間 15:30 <br>地點：幸福講堂|
 | 2025/11/13 | Thur | 家淇 | 庭暄 | ASHG 報告 | ASHG workshop & topics shared |
 | 2025/12/4  | Thur | 家淇 | 廷宇 | 碩班進度報告 rehearsal ||
-| 2025/12/15 | Mon | Jacob's Lab | | Cross-lab meeting ||
+| 2025/12/8 | Mon | Jacob's Lab | | Cross-lab meeting | 時間 15:00 <br>地點：幸福講堂|
 | 2025/12/18 | Thur | 雲兒 | 詩韻 | lab meeting ||
 | 2026/1/1 | Thur ||| 元旦放假||
 | 2026/1/15 | Thur | 婕瑜 | 文綺 | lab meeting ||
