@@ -36,5 +36,6 @@
 | 2025/12/18 | Thur |  |  | Mini-symposium: Big Data for Precision Health | 時間 14:30 <br>地點：202 |
 | 2026/1/1 | Thur ||| 元旦放假||
 | 2026/1/15 | Thur | 婕瑜 | 文綺 | lab meeting ||
+| 2026/1/23 | Fri | 馮嬿臻老師實驗室 ||Cross-lab meeting | 時間 14:00 <br>地點：公衛學院|
 | 2025/2/5 | Thur |||||
 | 2025/2/19| Thur ||| 過年 ||
