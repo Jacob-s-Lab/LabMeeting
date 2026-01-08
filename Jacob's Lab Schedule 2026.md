@@ -4,6 +4,11 @@
 
 | DATE | DAY | Presentor_1 | Presentor_2 | Plan | Note |
 |:--|:--|:--|:--|:--|:--|
+| 2026/1/1 | Thur ||| 元旦放假 ||
+| 2026/1/15 | Thur | 婕瑜 | 文綺 | lab meeting ||
+| 2026/1/23 | Fri | 馮嬿臻老師實驗室 ||Cross-lab meeting | 時間 14:00 <br>地點：公衛學院|
+| 2025/2/5 | Thur | Jacob | 家淇 | lab meeting ||
+| 2025/2/19 | Thur ||| 過年 ||
 | 2025/3/5 | Thur  | 品妃 | 庭暄 |Lab meeting||
 | 2025/3/19 | Thur | 鈺婷 | 冠達 |Lab meeting||
 | 2025/4/2 | Thur  | Larry | 廷宇 |Lab meeting||
