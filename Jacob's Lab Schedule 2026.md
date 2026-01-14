@@ -1,6 +1,6 @@
 ## Jacob's Lab Schedule 2026 
 - 會議時間：Lab meeting 為每月第一及第三週的星期四 14:00-15:00，每月 cross-lab meeting 日期、時間及地點也將隨時更新  
-- 會議地點：Lab meeting -- 1310 會議室  
+- 會議地點：Lab meeting -- 1310 會議室 (線上連結：https://meet.google.com/iqy-mivm-mob) 
 
 | DATE | DAY | Presentor_1 | Presentor_2 | Plan | Note |
 |:--|:--|:--|:--|:--|:--|
