@@ -10,7 +10,7 @@
 | 2026/2/5 | Thur | Jacob | 家淇 | lab meeting ||
 | 2026/2/19 | Thur ||| 過年 ||
 | 2026/3/5 | Thur  | 品妃 | 庭暄 |Lab meeting||
-| 2026/3/19 | Thur | 陳弘昕老師實驗室 ||Cross-lab meeting| 時間 14:00-16:00 |
+| 2026/3/19 | Thur | 陳弘昕老師實驗室 ||Cross-lab meeting| 時間 15:10-17:00 <br>地點：醫學院505教室 |
 | 2026/4/2 | Thur | 鈺婷 | 冠達 |Lab meeting||
 | 2026/4/9 | Thur |||Cross-lab meeting ||
 | 2026/4/16 | Thur | Larry | 廷宇 |Lab meeting||
