@@ -19,8 +19,8 @@
 | 2026/5/21 | Thur | Jacob | 家淇 |Lab meeting||
 | 2026/6/4 | Thur | 品妃 | 庭暄 |Lab meeting||
 | 2026/6/11 | Thur |陳弘昕老師實驗室||Cross-lab meeting||
-| 2026/6/18 | Thur | 鈺婷 | 冠達 |Lab meeting||
-| 2026/7/2 | Thur | Larry | 廷宇 |lab meeting||
+| 2026/6/18 | Thur | 鈺婷 | 廷宇 |Lab meeting||
+| 2026/7/2 | Thur | Larry | 冠達 |lab meeting||
 | 2026/7/16 | Thur | 婕瑜 | 文綺 |lab meeting||
 | 2026/8/6 | Thur | Jacob | 家淇 |Lab meeting||
 | 2026/8/20 | Thur | 品妃 | 庭暄 |Lab meeting||
