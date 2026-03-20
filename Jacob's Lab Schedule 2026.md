@@ -12,7 +12,7 @@
 | 2026/3/5 | Thur  | 品妃 | 庭暄 |Lab meeting||
 | 2026/3/19 | Thur | 陳弘昕老師實驗室 ||Cross-lab meeting| 時間 15:10-17:00 <br>地點：醫學院505教室 |
 | 2026/4/2 | Thur | 鈺婷 | 冠達 |Lab meeting||
-| 2026/4/9 | Thur | Lary (IBD) |  |Cross-lab meeting ||
+| 2026/4/9 | Thur | Lary (IBD) | Winnie |Cross-lab meeting ||
 | 2026/4/16 | Thur | Larry | 廷宇 |Lab meeting||
 | 2026/5/7 | Thur | 婕瑜 | 文綺 |Lab meeting||
 | 2026/5/14 | Thur |馮嬿臻老師實驗室||Cross-lab meeting||
