@@ -18,7 +18,7 @@
 | 2026/5/14 | Thur |馮嬿臻老師實驗室||Cross-lab meeting| 時間 14:00-16:00 <br>地點：幸福講堂 |
 | 2026/5/21 | Thur | 庭暄 | 家淇 |Lab meeting||
 | 2026/6/4 | Thur | 品妃 | Jacob |Lab meeting||
-| 2026/6/11 | Thur |陳弘昕老師實驗室||Cross-lab meeting||
+| 2026/6/10 | Web |陳弘昕老師實驗室||Cross-lab meeting|時間 14:00-16:00 <br>地點：中研院|
 | 2026/6/18 | Thur | 鈺婷 | 廷宇 |Lab meeting||
 | 2026/7/2 | Thur | Larry | 冠達 |lab meeting||
 | 2026/7/16 | Thur | 婕瑜 | 文綺 |lab meeting||
