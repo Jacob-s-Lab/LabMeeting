@@ -23,4 +23,4 @@
 | 2026/7/2 | Thur | Larry | 冠達 |lab meeting||
 | 2026/7/16 | Thur | 婕瑜 | 文綺 |lab meeting||
 | 2026/8/6 | Thur | Jacob | 家淇 |Lab meeting||
-| 2026/8/20 | Thur | 品妃 | 庭暄 |Lab meeting||
+| 2026/8/20 | Thur | 品妃 |  |Lab meeting||
