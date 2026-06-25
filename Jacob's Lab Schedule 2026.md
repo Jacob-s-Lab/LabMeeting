@@ -21,7 +21,7 @@
 | 2026/6/10 | Web |陳弘昕老師實驗室||Cross-lab meeting|時間 14:00-16:00 <br>地點：中研院|
 | 2026/6/18 | Thur | 鈺婷 | 品妃 |Lab meeting||
 | 2026/7/2 | Thur | Larry | 家淇 |lab meeting||
-| 2026/7/16 | Thur | 婕瑜 | 文綺 |lab meeting||
+| 2026/7/16 | Thur | 婕瑜 |  |lab meeting||
 | 2026/8/6 | Thur | Jacob | 冠達 |Lab meeting||
 | 2026/8/18 | Tues |  | |Cross-lab retreat| 時間： 下午 <br> 烘培/保齡球/高爾夫球/其他 |
 | 2026/8/20 | Thur | 品妃 |  |Lab meeting||
