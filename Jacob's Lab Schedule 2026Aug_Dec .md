@@ -7,9 +7,9 @@
 | 2026/8/20 | Thur | 品妃 | 冠達 |Lab meeting||
 | 2026/9/3 | Thur | Lary (IBD) | 鈺婷|Lab meeting||
 | 2026/9/10 | Thur | Jacob | 家淇 | lab meeting ||
-| 2026/9/24 | Thur | 婕瑜 | 文綺 |Lab meeting||
+| 2026/9/24 | Thur | 品妃 | 文綺 |Lab meeting||
 | 2026/10/1 | Thur | Daniel | 子郁 |Lab meeting||
-| 2026/10/8 | Thur | 慧穎 | 品妃 | Lab meeting||
+| 2026/10/8 | Thur | 慧穎 | 婕瑜 | Lab meeting||
 | 2026/10/29 | Thur | 冠達 | Lary (IBD) |Lab meeting||
 | 2026/11/5 | Thur | 鈺婷 | Jacob | Lab meeting||
 | 2026/11/12 | Thur | 家淇| 婕瑜 | Lab meeting||
