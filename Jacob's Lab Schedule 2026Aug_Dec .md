@@ -7,14 +7,14 @@
 | 2026/8/20 | Thur | 品妃 | 冠達 |Lab meeting||
 | 2026/9/3 | Thur | Lary (IBD) | 鈺婷|Lab meeting||
 | 2026/9/10 | Thur | Jacob | 家淇 | lab meeting ||
-| 2026/9/15 | Tue | Jacob's lab--Jacob |  | Cross-lab meeting|時間 14:00 地點：幸福講堂|
-| 2026/9/24 | Thur | 品妃 | Daniel |Lab meeting||
+| 2026/9/15 | Tue | Jacob's lab--Jacob |  | Cross-lab meeting|時間 14:00 <br>地點：|
+| 2026/9/24 | Thur | Daniel | 品妃 |Lab meeting||
 | 2026/10/1 | Thur | 子郁| 慧穎 |Lab meeting||
 | 2026/10/8 | Thur | 婕瑜| 冠達 | Lab meeting||
 | 2026/10/29 | Thur | Lary (IBD) | 鈺婷 |Lab meeting||
 | 2026/11/5 | Thur | Jacob | 家淇 | Lab meeting||
 | 2026/11/12 | Thur |  |  | Cross-lab meeting|時間 14:00|
-| 2026/11/19 | Thur | 婕瑜 | Daniel | Lab meeting||
+| 2026/11/19 | Thur | Daniel | 婕瑜 | Lab meeting||
 | 2026/12/03 | Thur | 子郁 | 慧穎 | Lab meeting||
 | 2026/12/10 | Thur | 品妃 | 冠達 |Lab meeting||
 | 2026/12/15 | Tue |  |  | Cross-lab meeting|時間 14:00|
